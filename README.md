@@ -1,6 +1,5 @@
-# <h1>Hi 👋, I'm Nemanja</h1>
-
-<p>A passionate frontend developer from Banja Luka <br>i'm currently learning Next.js<br>I love running in the rain, practicing the Wim Hof Method, and playing basketball.</p>
+# Hello World!, I'm Nemanja, a Frontend Developer 👋🏼"
+🛜 currently working on my own webpage<br>👨🏼‍🎓 studying at the Faculty of Information Technologies, specializing in Programming and Software Engineering<br>👨🏼‍💻 working as a web developer since 2021<br>
 
 # ⚡️ Where to find me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iamnemanjaa#2376) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamnemanjaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nemanja-peri%C4%87-5a8322216/) 
