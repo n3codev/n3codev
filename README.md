@@ -1,4 +1,4 @@
-# Hello World!, I'm Nemanja, a Frontend Developer 👋🏼"
+# Hello World!, I'm Nemanja, a Frontend Developer 👋🏼
 🛜 currently working on my own webpage<br>👨🏼‍🎓 studying at the Faculty of Information Technologies, specializing in Programming and Software Engineering<br>👨🏼‍💻 working as a web developer since 2021<br>
 
 # ⚡️ Where to find me:
