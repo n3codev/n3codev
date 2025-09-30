@@ -1,5 +1,5 @@
-# Hello World!, I'm Nemanja, a Frontend Developer 👋🏼
-🛜 currently working on my own webpage<br>👨🏼‍🎓 studying at the Faculty of Information Technologies, specializing in Programming and Software Engineering<br>👨🏼‍💻 working as a web developer since 2021<br>
+# Hello World!, I'm Nemanja, a Frontend Software Developer 👋🏼
+🛜 I currently work as a Frontend Software Developer at MMSCODE.<br>👨🏼‍🎓 studying at the Faculty of Information Technologies, specializing in Programming and Software Engineering<br>👨🏼‍💻 working as a web developer since 2021<br>
 
 # ⚡️ Where to find me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iamnemanjaa)
